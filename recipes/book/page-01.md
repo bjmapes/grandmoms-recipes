@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Page1
+title: Page 01
 parent: Book
-nav_order: 3
+nav_order: 1
 ---
 
 # (Recipe Name)
