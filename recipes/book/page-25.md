@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Apple Tube Cake
+title: Apple Tube Cake / Apple Sauce Cake
 parent: Book
 nav_order: 25
 ---
 
-# Apple Tube Cake
-![Apple Tube Cake](/recipe-images/pages/page-25.jpg)
+# Apple Tube Cake / Apple Sauce Cake
+![Apple Tube Cake / Apple Sauce Cake](/recipe-images/pages/page-25.jpg)
 
 ---

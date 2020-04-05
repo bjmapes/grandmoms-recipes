@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Macarons
+title: Macarons / Lemon Balls
 parent: Book
 nav_order: 35
 ---
 
-# Macarons
-![Macarons](/recipe-images/pages/page-35.jpg)
+# Macarons / Lemon Balls
+![Macarons / Lemon Balls](/recipe-images/pages/page-35.jpg)
 
 ---

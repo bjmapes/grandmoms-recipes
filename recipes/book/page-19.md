@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Manicotti
+title: Manicotta
 parent: Book
 nav_order: 19
 ---
 
-# Manicotti
-![Manicotti](/recipe-images/pages/page-19.jpg)
+# Manicotta
+![Manicotta](/recipe-images/pages/page-19.jpg)
 
 ---

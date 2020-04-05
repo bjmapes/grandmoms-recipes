@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Trudy ?'s Czechoskouskia Staivberay
+title: Trudy Urban's Czechoskouskia Strawberry
 parent: Book
 nav_order: 13
 ---
 
-# Trudy ?'s Czechoskouskia Staivberay
-![Trudy ?'s Czechoskouskia Staivberay](/recipe-images/pages/page-13.jpg)
+# Trudy Urban's Czechoskouskia Strawberry
+![Trudy Urban's Czechoskouskia Strawberry](/recipe-images/pages/page-13.jpg)
 
 ---

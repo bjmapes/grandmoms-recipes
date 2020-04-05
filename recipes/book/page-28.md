@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Italian Pizzelles
+title: Italian Pizzelles / Connie's Cookies
 parent: Book
 nav_order: 28
 ---
 
-# Italian Pizzelles
-![Italian Pizzelles](/recipe-images/pages/page-28.jpg)
+# Italian Pizzelles / Connie's Cookies
+![Italian Pizzelles / Connie's Cookies](/recipe-images/pages/page-28.jpg)
 
 ---
