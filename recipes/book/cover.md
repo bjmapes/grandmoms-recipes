@@ -8,7 +8,6 @@ permalink: recipes/book
 
 # Book
 ![Recipe book front cover](/recipe-images/cover/front-cover.jpeg)
-
 ![Recipe book back cover](/recipe-images/cover/back-cover.jpeg)
 
 
