@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Grandmom's Recipes
-description: Jennie Finore
+description: My Grandmom had an old handwritten copybook with her recipes.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://gr.bmapes.com" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -22,7 +22,7 @@ permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
 
 # Set a path/url to a logo that will be displayed instead of the title
-#logo: "/assets/images/just-the-docs.png"
+logo: "/assets/images/grandmom.jpg"
 
 # Enable or disable the site search
 search_enabled: false

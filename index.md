@@ -5,9 +5,9 @@ nav_order: 1
 permalink: /
 ---
 
-# Jennie Finore
+# Grandmom's Recipes
 
-
+![Grandmom and Grandpop](/assets/images/grandmom-and-grandpop.jpg)
 
 ---
 
