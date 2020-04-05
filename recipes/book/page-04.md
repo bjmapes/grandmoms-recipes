@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 04
+title: Aunt Katie's Cookies
 parent: Book
 nav_order: 4
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-04.jpg)
+# Aunt Katie's Cookies
+![Aunt Katie's Cookies](/recipe-images/pages/page-04.jpg)
 
 ---

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 33
+title: Siegre's Zucchini Cake
 parent: Book
 nav_order: 33
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-33.jpg)
+# Siegre's Zucchini Cake
+![Siegre's Zucchini Cake](/recipe-images/pages/page-33.jpg)
 
 ---

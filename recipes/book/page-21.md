@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 21
+title: Ricotta Cookies
 parent: Book
 nav_order: 21
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-21.jpg)
+# Ricotta Cookies
+![Ricotta Cookies](/recipe-images/pages/page-21.jpg)
 
 ---

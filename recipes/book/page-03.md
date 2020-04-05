@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 03
+title: Doctored Box Cake
 parent: Book
 nav_order: 3
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-03.jpg)
+# Doctored Box Cake
+![Doctored Box Cake](/recipe-images/pages/page-03.jpg)
 
 ---

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 30
+title: Banana Cake / Chiffon Cake
 parent: Book
 nav_order: 30
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-30.jpg)
+# Banana Cake / Chiffon Cake
+![Banana Cake / Chiffon Cake](/recipe-images/pages/page-30.jpg)
 
 ---

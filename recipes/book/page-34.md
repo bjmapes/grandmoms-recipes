@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 34
+title: Four Layer Pineapple Cake
 parent: Book
 nav_order: 34
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-34.jpg)
+# Four Layer Pineapple Cake
+![Four Layer Pineapple Cake](/recipe-images/pages/page-34.jpg)
 
 ---

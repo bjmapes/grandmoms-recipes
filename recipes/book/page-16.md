@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 16
+title: Ham Pie
 parent: Book
 nav_order: 16
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-16.jpg)
+# Ham Pie
+![Ham Pie](/recipe-images/pages/page-16.jpg)
 
 ---

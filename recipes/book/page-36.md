@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 36
+title: Joanne Donofrio's Whiskey Cake
 parent: Book
 nav_order: 36
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-36.jpg)
+# Joanne Donofrio's Whiskey Cake
+![Joanne Donofrio's Whiskey Cake](/recipe-images/pages/page-36.jpg)
 
 ---

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 10
+title: Filled Cookies
 parent: Book
 nav_order: 10
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-10.jpg)
+# Filled Cookies
+![Filled Cookies](/recipe-images/pages/page-10.jpg)
 
 ---

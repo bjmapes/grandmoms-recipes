@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 20
+title: Jamella
 parent: Book
 nav_order: 20
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-20.jpg)
+# Jamella
+![Jamella](/recipe-images/pages/page-20.jpg)
 
 ---

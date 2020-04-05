@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 22
+title: Aunt Minnie's Sweet Pie
 parent: Book
 nav_order: 22
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-22.jpg)
+# Aunt Minnie's Sweet Pie
+![Aunt Minnie's Sweet Pie](/recipe-images/pages/page-22.jpg)
 
 ---

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 37
+title: Emma's Cookie
 parent: Book
 nav_order: 37
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-37.jpg)
+# Emma's Cookie
+![Emma's Cookie](/recipe-images/pages/page-37.jpg)
 
 ---

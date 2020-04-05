@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 28
+title: Italian Pizzelles
 parent: Book
 nav_order: 28
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-28.jpg)
+# Italian Pizzelles
+![Italian Pizzelles](/recipe-images/pages/page-28.jpg)
 
 ---

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 24
+title: Apple Sheet Cake
 parent: Book
 nav_order: 24
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-24.jpg)
+# Apple Sheet Cake
+![Apple Sheet Cake](/recipe-images/pages/page-24.jpg)
 
 ---

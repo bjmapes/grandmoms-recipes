@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 40
+title: Peppers in Vinager
 parent: Book
 nav_order: 40
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-40.jpg)
+# Peppers in Vinager
+![Peppers in Vinager](/recipe-images/pages/page-40.jpg)
 
 ---

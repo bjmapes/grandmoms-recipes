@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 27
+title: Old Fashion Pumpkin Pie / Custard Pie / Meragne Pie
 parent: Book
 nav_order: 27
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-27.jpg)
+# Old Fashion Pumpkin Pie / Custard Pie / Meragne Pie
+![Old Fashion Pumpkin Pie / Custard Pie / Meragne Pie](/recipe-images/pages/page-27.jpg)
 
 ---

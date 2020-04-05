@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 41
+title: Pie Crust
 parent: Book
 nav_order: 41
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-41.jpg)
+# Pie Crust
+![Pie Crust](/recipe-images/pages/page-41.jpg)
 
 ---

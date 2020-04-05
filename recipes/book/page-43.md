@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 43
+title: Crabmeat Casserole
 parent: Book
 nav_order: 43
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-43.jpg)
+# Crabmeat Casserole
+![Crabmeat Casserole](/recipe-images/pages/page-43.jpg)
 
 ---

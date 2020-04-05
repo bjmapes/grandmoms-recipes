@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 01
+title: Funny Cake
 parent: Book
 nav_order: 1
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-01.jpg)
+# Funny Cake
+![Funny Cake](/recipe-images/pages/page-01.jpg)
 
 ---

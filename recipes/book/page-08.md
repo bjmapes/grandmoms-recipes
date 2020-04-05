@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 08
+title: Marie Dering's Tarelle (Raised)
 parent: Book
 nav_order: 8
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-08.jpg)
+# Marie Dering's Tarelle (Raised)
+![Marie Dering's Tarelle (Raised)](/recipe-images/pages/page-08.jpg)
 
 ---

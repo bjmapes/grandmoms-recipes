@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 09
+title: Macaroons
 parent: Book
 nav_order: 9
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-09.jpg)
+# Macaroons
+![Macaroons](/recipe-images/pages/page-09.jpg)
 
 ---

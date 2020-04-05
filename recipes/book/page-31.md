@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 31
+title: Whipped Cream Frosting / Sour Cream Pound Cake
 parent: Book
 nav_order: 31
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-31.jpg)
+# Whipped Cream Frosting / Sour Cream Pound Cake
+![Whipped Cream Frosting / Sour Cream Pound Cake](/recipe-images/pages/page-31.jpg)
 
 ---

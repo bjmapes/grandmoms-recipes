@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 06
+title: Butter-nut Balls
 parent: Book
 nav_order: 6
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-06.jpg)
+# Butter-nut Balls
+![Butter-nut Balls](/recipe-images/pages/page-06.jpg)
 
 ---

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 07
+title: Eggnog Doughnuts
 parent: Book
 nav_order: 7
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-07.jpg)
+# Eggnog Doughnuts
+![Eggnog Doughnuts](/recipe-images/pages/page-07.jpg)
 
 ---

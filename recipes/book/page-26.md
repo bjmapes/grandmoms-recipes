@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 26
+title: Viola's Choc. Cake
 parent: Book
 nav_order: 26
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-26.jpg)
+# Viola's Choc. Cake
+![Viola's Choc. Cake](/recipe-images/pages/page-26.jpg)
 
 ---

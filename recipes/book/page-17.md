@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 17
+title: Grustile
 parent: Book
 nav_order: 17
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-17.jpg)
+# Grustile
+![Grustile](/recipe-images/pages/page-17.jpg)
 
 ---

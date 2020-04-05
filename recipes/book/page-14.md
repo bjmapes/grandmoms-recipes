@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 14
+title: Rosie's Easter Bread
 parent: Book
 nav_order: 14
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-14.jpg)
+# Rosie's Easter Bread
+![Rosie's Easter Bread](/recipe-images/pages/page-14.jpg)
 
 ---

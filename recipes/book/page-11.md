@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 11
+title: Pound Cake
 parent: Book
 nav_order: 11
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-11.jpg)
+# Pound Cake
+![Pound Cake](/recipe-images/pages/page-11.jpg)
 
 ---

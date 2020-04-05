@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Page 13
+title: Trudy ?'s Czechoskouskia Staivberay
 parent: Book
 nav_order: 13
 ---
 
-# (Recipe Name)
-![Recipe Image](/recipe-images/pages/page-13.jpg)
+# Trudy ?'s Czechoskouskia Staivberay
+![Trudy ?'s Czechoskouskia Staivberay](/recipe-images/pages/page-13.jpg)
 
 ---
