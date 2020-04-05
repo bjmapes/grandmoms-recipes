@@ -16,7 +16,7 @@
 title: My Grandmom's Recipes
 description: Jennie Finore
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://pmarsceill.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gr.bmapes.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
@@ -38,7 +38,7 @@ aux_links:
   ""
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2020"
+footer_content: ""
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
