@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Pound Cake
 parent: Book
 nav_order: 11

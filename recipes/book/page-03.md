@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Doctored Box Cake
 parent: Book
 nav_order: 3

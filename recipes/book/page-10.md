@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Filled Cookies
 parent: Book
 nav_order: 10

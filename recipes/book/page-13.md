@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Trudy Urban's Czechoskouskia Strawberry
 parent: Book
 nav_order: 13

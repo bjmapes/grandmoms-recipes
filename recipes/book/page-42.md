@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Bread Dough
 parent: Book
 nav_order: 42

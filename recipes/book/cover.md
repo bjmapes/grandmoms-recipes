@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Book
 nav_order: 4
 has_children: true

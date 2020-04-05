@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Eggnog Doughnuts
 parent: Book
 nav_order: 7

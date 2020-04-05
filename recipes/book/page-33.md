@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Siegre's Zucchini Cake
 parent: Book
 nav_order: 33

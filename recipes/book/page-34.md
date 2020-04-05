@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Four Layer Pineapple Cake
 parent: Book
 nav_order: 34

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Rosie's Fudge
 parent: Book
 nav_order: 5

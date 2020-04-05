@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Grustile
 parent: Book
 nav_order: 17

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Whipped Cream Frosting / Sour Cream Pound Cake
 parent: Book
 nav_order: 31

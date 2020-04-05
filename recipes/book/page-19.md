@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Manicotta
 parent: Book
 nav_order: 19

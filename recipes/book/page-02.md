@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Sponge Cake
 parent: Book
 nav_order: 2

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Viola's Choc. Cake / Spice Cake
 parent: Book
 nav_order: 26

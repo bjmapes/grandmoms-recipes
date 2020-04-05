@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Apple Tube Cake / Apple Sauce Cake
 parent: Book
 nav_order: 25

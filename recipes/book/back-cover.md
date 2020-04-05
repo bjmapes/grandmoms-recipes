@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: recipe-book
 title: Back Cover
 parent: Book
-nav_order: 100
+nav_order: 90
 ---
 
 # Back Cover

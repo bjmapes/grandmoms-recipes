@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Italian Pizzelles / Connie's Cookies
 parent: Book
 nav_order: 28

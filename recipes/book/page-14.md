@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Rosie's Easter Bread
 parent: Book
 nav_order: 14

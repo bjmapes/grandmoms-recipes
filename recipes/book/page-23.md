@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Aunt Minnie's Bows / Cookies
 parent: Book
 nav_order: 23

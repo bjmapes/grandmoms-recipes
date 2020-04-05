@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Old Fashion Pumpkin Pie / Custard Pie / Meragne Pie
 parent: Book
 nav_order: 27

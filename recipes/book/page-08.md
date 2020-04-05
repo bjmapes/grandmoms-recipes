@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Marie Dering's Tarelle (Raised)
 parent: Book
 nav_order: 8

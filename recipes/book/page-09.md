@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Macaroons
 parent: Book
 nav_order: 9

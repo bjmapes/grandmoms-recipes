@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Apple Sheet Cake
 parent: Book
 nav_order: 24

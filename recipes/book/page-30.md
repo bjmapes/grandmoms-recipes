@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Banana Cake / Chiffon Cake
 parent: Book
 nav_order: 30

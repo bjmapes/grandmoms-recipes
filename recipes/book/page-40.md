@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Peppers in Vinager / Corn Meal Mush / Mushrooms in Jar / Eggplants
 parent: Book
 nav_order: 40

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe-book
 title: Crabmeat Casserole
 parent: Book
 nav_order: 43
